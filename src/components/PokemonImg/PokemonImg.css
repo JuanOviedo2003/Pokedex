@@ -1,0 +1,10 @@
+.custom-shape {
+	width: 300px;
+	height: 300px;
+	background-color: #4a90e2;
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	clip-path: polygon(0 0, 100% 0, 100% 100%, 15% 100%, 0 85%);
+}

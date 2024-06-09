@@ -564,16 +564,16 @@ video {
   margin-bottom: 0.5rem;
 }
 
+.mr-2{
+  margin-right: 0.5rem;
+}
+
 .mr-4{
   margin-right: 1rem;
 }
 
 .mt-8{
   margin-top: 2rem;
-}
-
-.mr-2{
-  margin-right: 0.5rem;
 }
 
 .flex{
@@ -644,10 +644,6 @@ video {
   flex-direction: column-reverse;
 }
 
-.items-start{
-  align-items: flex-start;
-}
-
 .items-end{
   align-items: flex-end;
 }
@@ -666,6 +662,10 @@ video {
 
 .justify-between{
   justify-content: space-between;
+}
+
+.gap-4{
+  gap: 1rem;
 }
 
 .gap-\[3px\]{
@@ -793,8 +793,4 @@ video {
 
 .outline-black{
   outline-color: #000;
-}
-
-.\[numOfTypes\:any\]{
-  num-of-types: any;
 }

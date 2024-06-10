@@ -17,5 +17,4 @@ https://pokejj.netlify.app/
     <img src="https://github.com/JuanOviedo2003/Pokedex/assets/65878274/4ce33b91-5cd6-4a29-86b2-79950e9fb1fd" alt="Imagen 2" width="150" height="150">
     <img src="https://github.com/JuanOviedo2003/Pokedex/assets/65878274/9cec4532-cded-4643-9f27-ccc69700c57b" alt="Imagen 3" width="150" height="150">
     <img src="https://github.com/JuanOviedo2003/Pokedex/assets/65878274/2cc4a0fc-d9aa-44e2-996f-dcd30294f0e4" alt="Imagen 4" width="150" height="150">
-    <img src="https://github.com/JuanOviedo2003/Pokedex/assets/65878274/aef0378e-680c-4f16-b2be-aa8289b4775f" alt="Imagen 5" width="150" height="150">
 </div>

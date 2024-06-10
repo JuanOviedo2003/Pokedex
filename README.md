@@ -10,8 +10,10 @@ https://pokejj.netlify.app/
 
 <hr>
 Tecnologías:
+
 ![image](https://github.com/JuanOviedo2003/Pokedex/assets/65878274/94c7dfba-63f6-4b72-8d16-852e7d1250fb)
 ![image](https://github.com/JuanOviedo2003/Pokedex/assets/65878274/4ce33b91-5cd6-4a29-86b2-79950e9fb1fd)
 ![image](https://github.com/JuanOviedo2003/Pokedex/assets/65878274/9cec4532-cded-4643-9f27-ccc69700c57b)
 ![image](https://github.com/JuanOviedo2003/Pokedex/assets/65878274/2cc4a0fc-d9aa-44e2-996f-dcd30294f0e4)
+![image](https://github.com/JuanOviedo2003/Pokedex/assets/65878274/aef0378e-680c-4f16-b2be-aa8289b4775f)
 <hr>
